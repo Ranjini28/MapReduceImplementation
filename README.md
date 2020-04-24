@@ -1,4 +1,4 @@
-# MapReduceImplementatio
+# MapReduceImplementation
  
  StudentsData MapReduce program to find total number of students scored >60 in subject 1 & number of students passed in all subjects.
  
